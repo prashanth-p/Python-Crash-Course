@@ -1,0 +1,13 @@
+The following are the major things ive learnt in python so far:
+
+1. every variable in python is an object 
+2. loops, conditional statements
+3. dictionaries, tuples and lists
+4. functions
+5. class
+
+
+And now exploring how to work with files
+ test modification: Appending from write_file.py
+
+ test modification: Appending from write_file.py
